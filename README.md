@@ -6,6 +6,17 @@ Guarenteed Profit
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Profit Precision – Sports Betting Sheet</title>
+    <!-- ✅ Social Media Preview (Open Graph + Twitter) -->
+<meta property="og:title" content="Profit Precision – Elite Daily Sports Picks">
+<meta property="og:description" content="Access the highest-confidence sports picks, powered by real-time data and Profit Precision analytics. Updated daily.">
+<meta property="og:image" content="https://procisionproftit.github.io/Profit-Precison/assets/profitprecision-preview.png">
+<meta property="og:url" content="https://procisionproftit.github.io/Profit-Precison/">
+<meta property="og:type" content="website">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Profit Precision – Elite Daily Sports Picks">
+<meta name="twitter:description" content="Guaranteed accuracy. Real-time insights. Secure checkout via Apple Pay & Stripe.">
+<meta name="twitter:image" content="https://procisionproftit.github.io/Profit-Precison/assets/profitprecision-preview.png">
     <style>
         body {
             font-family: Arial, sans-serif;
