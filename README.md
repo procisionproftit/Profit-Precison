@@ -89,8 +89,12 @@ Guarenteed Profit
 <div class="divider"></div>
 
 <footer>
-    <p>© 2025 Profit Precision | All rights reserved</p>
-    <p>Contact: <a href="mailto:sawyerewing@gmail.com">sawyerewing@gmail.com</a> | Website: <a href="https://profitprecision.com" target="_blank">profitprecision.com</a></p>
+  <p>© 2025 Profit Precision | All rights reserved</p>
+  <p>
+    Contact: <a href="mailto:sawyerewing@gmail.com">sawyerewing@gmail.com</a> |
+    <a href="legal.html">Privacy Policy & Terms</a>
+  </p>
+</footer>
     <p>Digital product for personal use only. Redistribution prohibited.</p>
 </footer>
 
